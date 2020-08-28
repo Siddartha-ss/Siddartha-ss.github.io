@@ -3,3 +3,4 @@ line123
 =======
 line7
 >>>>>>> newbranch1
+line8
