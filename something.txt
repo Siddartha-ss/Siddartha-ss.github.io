@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line123
+=======
+line7
+>>>>>>> newbranch1
